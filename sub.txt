@@ -5,3 +5,5 @@ Stld
 Signal and system
 data structures
 Circuit and system
+computer application and architecture
+mobile and web development
