@@ -9,6 +9,7 @@ computer application and architecture
 mobile and web development
 RECYCLE!
 Some More Subjects
+This is added for learning issues in github
 physics 
 chemistry
 biology
